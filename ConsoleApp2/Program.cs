@@ -29,5 +29,7 @@ class Program
 
         // Выводим результат
         Console.WriteLine($"Количество положительных элементов в матрице: {positiveCount}");
+
+        Console.WriteLine("Рандомные слова");
     }
 }
